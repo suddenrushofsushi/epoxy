@@ -1,6 +1,6 @@
 # Epoxy
 
-**TODO: Add description**
+Epoxy for your data
 
 ## Installation
 
@@ -10,7 +10,7 @@ by adding `epoxy` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:epoxy, "~> 0.1.0"}
+    {:epoxy, "~> 0.0.1"}
   ]
 end
 ```

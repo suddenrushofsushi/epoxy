@@ -29,7 +29,8 @@ defmodule Epoxy.Mixfile do
 
   defp package do
     [
-      maintainers: ["suddenrushofsushi", "wli0503"],
+      maintainers: ["Craig Waterman", "Wen Li"],
+      licenses: ["Apache 2.0"],
       links: %{"GitHub" => "https://github.com/suddenrushofsushi/epoxy"}
     ]
   end
